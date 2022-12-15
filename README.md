@@ -10,7 +10,7 @@ take the bash script "stream-rip.sh" and place it in whatever directory you want
 
 when you are inside the bash terminal, navigate to directory you placed the script. 
 
-"stream-rip.sh {link} {filename}.{filetype}"
+"bash stream-rip.sh {link} {filename}.{filetype}"
 
 eg "stream-rip.sh http://foo.com/bar bar1.mp4"
 
