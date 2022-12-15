@@ -1,7 +1,7 @@
 # m3u8-rip
 download video with provided m3u8 link
 
-very basic ffmpeg script with my preferred options.
+very basic bash script utilizing ffmpeg with my preferred options.
 
 how to use:
 
